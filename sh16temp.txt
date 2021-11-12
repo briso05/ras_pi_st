@@ -1,0 +1,5 @@
+HTML5,CSS3,JavaScript,JQuery,
+Java,JSP/Servlet,Spring Framework
+Mybatis,Oracle18c
+Linux
+Python
